@@ -2,7 +2,7 @@
 
 -Implemented machine learning models, including Logistic Regression, KNN Classifier, and Decision Tree Classifier, to classify salary categories.
 
--Achieved the highest accuracy with the Decision Tree Classifier, identifying experience and job role as the most significant predictors.
+-Achieved the highest accuracy with the Logistic Regression, identifying experience and job role as the most significant predictors.
 
 -Provided insights into key factors affecting engineering salaries, showcasing the practical application of machine learning for salary prediction and market value assessment.
 
